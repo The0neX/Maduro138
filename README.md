@@ -1,34 +1,44 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The0neX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=The0neX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=Olá,%20sou%20o%20Arthur!&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=000000&descSize=20&descAlign=50&descAlignY=50&theme=dracula" alt="Header" />
+  <br>
+  <i>Apaixonado por programação, construindo desde a base dos sistemas até a web.</i>
+  <br><br>
 </div>
 
-###
+<details>
+  <summary>👨‍💻 <b>Sobre Mim (Open)</b></summary>
+  <blockquote>
+    <p>Bem-vindo ao meu espaço! Sou um desenvolvedor focado em criar soluções seguras e eficientes. Gosto de transitar entre o desenvolvimento de baixo nível e a criação de arquiteturas completas, sempre de olho em performance e cibersegurança. Explore meus projetos abaixo para ver um pouco do meu código em ação.</p>
+  </blockquote>
+</details>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+<hr>
 
-###
+<details>
+  <summary>🛠️ <b>Minhas Tecnologias (Open)</b></summary>
+  <br>
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,html,css,kotlin,c,java&theme=dark" alt="Skills" />
+    </a>
+  </div>
+  <br>
+</details>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<hr>
 
-###
+<details>
+  <summary>📊 <b>Estatísticas do GitHub (Open)</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=The0neX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=The0neX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+  </div>
+  <br>
+</details>
+
+<br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=The0neX.The0neX&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=The0neX.The0neX&" alt="visitors" />
 </div>
-
-###
