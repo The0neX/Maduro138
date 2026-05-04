@@ -43,9 +43,7 @@
 
 <br><br>
   <!-- Adicionado &v=1 no final de cada link -->
-<img src="https://github-readme-stats.vercel.app/api?username=The0neX&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&v=1" height="150" alt="Estatísticas do GitHub" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=The0neX&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&v=1" height="150" alt="Linguagens mais usadas" />
 <!-- CONTADOR DE VISITAS -->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=The0neX.The0neX&" alt="visitors" />
