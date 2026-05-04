@@ -1,29 +1,27 @@
-<!-- BANNER SUPERIOR DRACULA COM SAUDAÇÃO PERSONALIZADA -->
+<!-- Banner: Efeito de onda mantido, mas com cor escura minimalista (GitHub Dark) -->
 <div align="center">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=Olá,%20sou%20o%20Arthur%20👋&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=000000&descSize=20&descAlign=50&descAlignY=50&theme=dracula" alt="Header" />
-  <br>
-  <strong>Desenvolvedor de Sistemas | Apaixonado por Baixo Nível & Performance</strong>
-  <br><br>
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=E%20aí,%20sou%20o%20Arthur!&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=0D1117&desc=Dev%20Back-end%20&%20Baixo%20Nível&descSize=20&descAlign=50&descAlignY=50" alt="Header" />
 </div>
 
-
+<!-- SEÇÃO: SOBRE (Expansível) -->
 <details>
-  <summary>🌌 <b>A Minha Jornada (Open)</b></summary>
+  <summary>👨‍💻 <b>Sobre Mim (Open)</b></summary>
   <blockquote>
-    <p>Bem-vindo ao meu núcleo de código. Sou um desenvolvedor focado em entender como as coisas funcionam "por baixo do capô". Minha paixão reside na intersecção entre a eficiência do hardware e a complexidade do software.</p>
-    <p>Atualmente, estou me aprofundando em arquitetura de sistemas seguros, otimização de performance e exploração de novas fronteiras em desenvolvimento web moderno.</p>
+    <p>Desenvolvedor curioso e focado em resolver problemas reais. Gosto daquele equilíbrio entre criar sistemas web robustos usando TypeScript, Node.js e PostgreSQL, e depois descer para o baixo nível escrevendo em C e mexendo com APIs nativas.</p>
+    <p>Também tenho um interesse forte em cibersegurança. Construir projetos é legal, mas garantir que eles não sejam hackeados é melhor ainda.</p>
   </blockquote>
 </details>
 
 <hr>
 
-
+<!-- SEÇÃO: STACK (Expansível) -->
 <details open>
-  <summary>🛠️ <b>O Meu Arsenal Tecnológico (Open)</b></summary>
+  <summary>🛠️ <b>Tecnologias (Open)</b></summary>
   <br>
   <div align="center">
+    <!-- Ícones atualizados para incluir as linguagens de web e baixo nível -->
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,js,ts,html,css,linux,bash,git,docker&theme=dark" alt="Skills Arsenal" />
+      <img src="https://skillicons.dev/icons?i=c,ts,js,nodejs,postgres,html,css,git&theme=dark" alt="Skills" />
     </a>
   </div>
   <br>
@@ -31,39 +29,27 @@
 
 <hr>
 
-
+<!-- SEÇÃO: ESTATÍSTICAS (Expansível) -->
+<!-- Voltei para o readme-stats clássico, mas forcei o tema escuro sem bordas para ficar limpo -->
 <details>
-  <summary>📊 <b>Núcleo de Atividade do GitHub (Open)</b></summary>
+  <summary>📊 <b>Estatísticas (Open)</b></summary>
   <br>
   <div align="center">
-    <!-- Engine de Estatísticas Alternativa: Summary Cards -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The0neX&theme=dracula" alt="Perfil Detalhado Arthur" />
-    <br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=The0neX&theme=dracula" alt="Gráfico de Linguagens Original" />
+    <img src="https://github-readme-stats.vercel.app/api?username=The0neX&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" height="150" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=The0neX&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" height="150" alt="Linguagens mais usadas" />
   </div>
   <br>
 </details>
 
-<br>
-
-
-<details>
-  <summary>🤝 <b>Vamos Construir Algo Juntos? (Open)</b></summary>
-  <blockquote>
-    <p>Estou sempre aberto a colaborações em projetos de código aberto, discussões sobre arquitetura de sistemas ou apenas para trocar ideias sobre tecnologia.</p>
-    <div align="center">
-      <a href="arthur11maduro@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Dracula?style=for-the-badge&logo=gmail&logoColor=white&labelColor=282A36&color=BD93F9" alt="Email" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://linkedin.com/in/seu-linkedin">
-        <img src="https://img.shields.io/badge/LinkedIn-Dracula?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282A36&color=8BE9FD" alt="LinkedIn" />
-      </a>
-    </div>
-  </blockquote>
-</details>
-
 <br><br>
+  <!-- Adicionado &v=1 no final de cada link -->
+<img src="https://github-readme-stats.vercel.app/api?username=The0neX&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&v=1" height="150" alt="Estatísticas do GitHub" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=The0neX&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&v=1" height="150" alt="Linguagens mais usadas" />
+<!-- CONTADOR DE VISITAS -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=The0neX.The0neX&" alt="visitors" />
+</div>
 
 
 <div align="center">
